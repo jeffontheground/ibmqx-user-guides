@@ -117,7 +117,7 @@ The results are summarized in the following table, where X length is the result 
 probability 0 minus probability 1. You can think of it as the length of the x measurement.
 
 +---------------+---------------+-------------+-----------+-----------+-----------+
-|Experiment     | Phase angle   | Gates       | Prop 0    | Prob 1    | X length  |
+|Experiment     | Phase angle   | Gates       | Prob 0    | Prob 1    | X length  |
 +===============+===============+=============+===========+===========+===========+
 | 0             | 0             |             | 1         | 0         | 1         |
 +---------------+---------------+-------------+-----------+-----------+-----------+
@@ -192,7 +192,7 @@ circular basis.
   :linenos:
 
 +---------------+---------------+-------------+-----------+-----------+-----------+
-|Experiment     | Phase angle   | Gates       | Prop 0    | Prob 1    | Y length  |
+|Experiment     | Phase angle   | Gates       | Prob 0    | Prob 1    | Y length  |
 +===============+===============+=============+===========+===========+===========+
 | 0             | 0             |             | 0.5       | 0.5       | 0         |
 +---------------+---------------+-------------+-----------+-----------+-----------+
